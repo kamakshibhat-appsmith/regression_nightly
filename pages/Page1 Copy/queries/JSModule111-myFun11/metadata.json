@@ -16,7 +16,7 @@
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin"
     },
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "fullyQualifiedName": "_$JSModule111$_JSModule1.myFun11",
     "name": "myFun11",
     "pageId": "Page1 Copy",
