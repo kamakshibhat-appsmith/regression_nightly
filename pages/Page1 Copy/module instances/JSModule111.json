@@ -7,7 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun11": "[\"1\"]",
+      "myFun11a": "[\"1\"]",
       "myFun2": "[]"
     },
     "moduleInputs": {
@@ -15,7 +15,7 @@
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "hphmxylbig",
-        "label": "myFun11",
+        "label": "myFun11a",
         "propertyName": "inputs.myFun1"
       },
       "langitpimh": {
@@ -28,6 +28,6 @@
     },
     "name": "JSModule111",
     "pageId": "Page1 Copy",
-    "version": "0.0.9"
+    "version": "0.0.10"
   }
 }
