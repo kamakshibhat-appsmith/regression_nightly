@@ -1,33 +1,33 @@
 {
-  "gitSyncId": "6706387f4b5fa03ca09d3e9f_3b306837-3702-4283-a8c9-777e4f5718cd",
-  "id": "Page1_JSModule111",
+  "gitSyncId": "670d21932883ec1326c7846e_fe2e1055-b262-41b6-b415-409947c404cc",
+  "id": "Page1_JSModule1113",
   "moduleUUID": "b75a443e-4a10-468e-939b-2bf0331629b0",
   "packageUUID": "7aa32bac-e802-4317-988f-fc9140de497b",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun11a": "[\"2\"]",
-      "myFun2": "[]"
+      "myFun11aaaaaop": "[\"2\"]",
+      "myFun2aaaa": "[]"
     },
     "moduleInputs": {
       "hphmxylbig": {
         "controlType": "INPUT_TEXT",
-        "defaultValue": "[]",
+        "defaultValue": "[\"{{1}}\"]",
         "id": "hphmxylbig",
-        "label": "myFun11a",
-        "propertyName": "inputs.myFun1"
+        "label": "myFun11aaaaaop",
+        "propertyName": "inputs.myFun11aop"
       },
       "langitpimh": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "langitpimh",
-        "label": "myFun2",
+        "label": "myFun2aaaa",
         "propertyName": "inputs.myFun2"
       }
     },
-    "name": "JSModule111",
+    "name": "JSModule1113",
     "pageId": "Page1",
-    "version": "0.0.10"
+    "version": "0.0.20"
   }
 }
