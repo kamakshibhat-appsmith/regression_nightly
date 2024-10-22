@@ -7,27 +7,27 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun11a": "[\"2\"]",
-      "myFun2": "[]"
+      "myFun11aaaaaop": "[\"2\"]",
+      "myFun2aaaa": "[]"
     },
     "moduleInputs": {
       "hphmxylbig": {
         "controlType": "INPUT_TEXT",
-        "defaultValue": "[]",
+        "defaultValue": "[\"{{1}}\"]",
         "id": "hphmxylbig",
-        "label": "myFun11a",
-        "propertyName": "inputs.myFun1"
+        "label": "myFun11aaaaaop",
+        "propertyName": "inputs.myFun11aop"
       },
       "langitpimh": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "langitpimh",
-        "label": "myFun2",
+        "label": "myFun2aaaa",
         "propertyName": "inputs.myFun2"
       }
     },
     "name": "JSModule111",
     "pageId": "Page1",
-    "version": "0.0.10"
+    "version": "0.0.20"
   }
 }
