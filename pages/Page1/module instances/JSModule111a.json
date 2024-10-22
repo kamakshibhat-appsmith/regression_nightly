@@ -1,13 +1,13 @@
 {
   "gitSyncId": "6706387f4b5fa03ca09d3e9f_3b306837-3702-4283-a8c9-777e4f5718cd",
-  "id": "Page1_JSModule111",
+  "id": "Page1_JSModule111a",
   "moduleUUID": "b75a443e-4a10-468e-939b-2bf0331629b0",
   "packageUUID": "7aa32bac-e802-4317-988f-fc9140de497b",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun11aaaaaop": "[\"2\"]",
+      "myFun11aaaaaop11aazazazazazaz123456789": "[\"2\"]",
       "myFun2aaaa": "[]"
     },
     "moduleInputs": {
@@ -15,7 +15,7 @@
         "controlType": "INPUT_TEXT",
         "defaultValue": "[\"{{1}}\"]",
         "id": "hphmxylbig",
-        "label": "myFun11aaaaaop",
+        "label": "myFun11aaaaaop11aazazazazazaz123456789",
         "propertyName": "inputs.myFun11aop"
       },
       "langitpimh": {
@@ -26,8 +26,8 @@
         "propertyName": "inputs.myFun2"
       }
     },
-    "name": "JSModule111",
+    "name": "JSModule111a",
     "pageId": "Page1",
-    "version": "0.0.20"
+    "version": "0.0.23"
   }
 }

@@ -1,12 +1,12 @@
 {
   "gitSyncId": "6706387f4b5fa03ca09d3e9f_8ef22596-6470-4550-aec3-76f49d41f872",
-  "id": "Page1__$JSModule111$_JSModule1",
+  "id": "Page1__$JSModule111a$_JSModule1",
   "isPublic": true,
-  "moduleInstanceId": "Page1_JSModule111",
-  "rootModuleInstanceId": "Page1_JSModule111",
+  "moduleInstanceId": "Page1_JSModule111a",
+  "rootModuleInstanceId": "Page1_JSModule111a",
   "unpublishedCollection": {
     "contextType": "PAGE",
-    "name": "_$JSModule111$_JSModule1",
+    "name": "_$JSModule111a$_JSModule1",
     "pageId": "Page1",
     "pluginId": "js-plugin",
     "pluginType": "JS"
