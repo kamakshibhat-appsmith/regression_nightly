@@ -1,14 +1,14 @@
 {
   "gitSyncId": "670d21932883ec1326c7846e_8950c52e-d333-4aca-8e77-4e48c440fb4e",
-  "id": "Page1 Copy__$JSModule111$_JSModule1.myFun2aaa1a",
+  "id": "Page1 Copy__$JSModule1111$_JSModule1.myFun2aaa1a",
   "isPublic": true,
-  "moduleInstanceId": "Page1 Copy_JSModule111",
+  "moduleInstanceId": "Page1 Copy_JSModule1111",
   "pluginId": "js-plugin",
   "pluginType": "JS",
-  "rootModuleInstanceId": "Page1 Copy_JSModule111",
+  "rootModuleInstanceId": "Page1 Copy_JSModule1111",
   "unpublishedAction": {
     "clientSideExecution": true,
-    "collectionId": "Page1 Copy__$JSModule111$_JSModule1",
+    "collectionId": "Page1 Copy__$JSModule1111$_JSModule1",
     "confirmBeforeExecute": false,
     "contextType": "PAGE",
     "datasource": {
@@ -17,7 +17,7 @@
       "pluginId": "js-plugin"
     },
     "executeOnLoad": false,
-    "fullyQualifiedName": "_$JSModule111$_JSModule1.myFun2aaa1a",
+    "fullyQualifiedName": "_$JSModule1111$_JSModule1.myFun2aaa1a",
     "name": "myFun2aaa1a",
     "pageId": "Page1 Copy",
     "userSetOnLoad": false
