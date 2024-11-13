@@ -6,10 +6,20 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
-    "moduleInputs": {},
+    "inputs": {
+      "input1": "1"
+    },
+    "moduleInputs": {
+      "tkejvyphsb": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1",
+        "id": "tkejvyphsb",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
     "name": "QueryModule11",
     "pageId": "Page1",
-    "version": "0.0.10"
+    "version": "0.0.29"
   }
 }
