@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 20,
+  "bottomRow": 26,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -32,8 +32,8 @@
   "mobileRightColumn": 26,
   "mobileTopRow": 15,
   "needsErrorInfo": false,
-  "originalBottomRow": 20,
-  "originalTopRow": 15,
+  "originalBottomRow": 26,
+  "originalTopRow": 21,
   "overflow": "NONE",
   "parentColumnSpace": 13.0625,
   "parentId": "0",
@@ -45,10 +45,10 @@
   "text": "Hello {{appsmith.user.name || appsmith.user.email}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 15,
+  "topRow": 21,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "wdeo5dc33l",
-  "widgetName": "Text1"
+  "widgetId": "gjozuf6n8p",
+  "widgetName": "Text1Copy"
 }
