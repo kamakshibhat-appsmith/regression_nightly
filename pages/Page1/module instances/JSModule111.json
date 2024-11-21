@@ -7,7 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun11aaaaaop11aazazazazazaz12345678911": "[\"2\"]",
+      "myFun1": "[\"2\"]",
       "myFun2aaa1a": "[]"
     },
     "moduleInputs": {
@@ -15,7 +15,7 @@
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "hphmxylbig",
-        "label": "myFun11aaaaaop11aazazazazazaz12345678911",
+        "label": "myFun1",
         "propertyName": "inputs.myFun11aaaaaop11aazazazazazaz123456789"
       },
       "langitpimh": {
@@ -28,6 +28,6 @@
     },
     "name": "JSModule111",
     "pageId": "Page1",
-    "version": "0.0.30"
+    "version": "0.0.34"
   }
 }
