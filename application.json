@@ -23,11 +23,11 @@
     },
     {
       "id": "Page1 Copy;;;",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "Page1 Copy;;; Copy",
-      "isDefault": true
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
