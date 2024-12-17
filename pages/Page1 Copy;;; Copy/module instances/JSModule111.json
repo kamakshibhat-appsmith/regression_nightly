@@ -1,0 +1,33 @@
+{
+  "gitSyncId": "67613a770172b21b64cdb3e4_197f1fbe-d56b-423e-8d6a-df59076beae0",
+  "id": "Page1 Copy;;; Copy_JSModule111",
+  "moduleUUID": "b75a443e-4a10-468e-939b-2bf0331629b0",
+  "packageUUID": "7aa32bac-e802-4317-988f-fc9140de497b",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "test1": "[]",
+      "testjs1": "[\"1\"]"
+    },
+    "moduleInputs": {
+      "hphmxylbig": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "hphmxylbig",
+        "label": "testjs1",
+        "propertyName": "inputs.myFun11aaaaaop11aazazazazazaz123456789"
+      },
+      "langitpimh": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "langitpimh",
+        "label": "test1",
+        "propertyName": "inputs.myFun2aaaa"
+      }
+    },
+    "name": "JSModule111",
+    "pageId": "Page1 Copy;;; Copy",
+    "version": "0.0.39"
+  }
+}
