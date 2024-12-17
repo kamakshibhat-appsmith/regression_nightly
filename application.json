@@ -18,16 +18,20 @@
   "icon": "globe",
   "pages": [
     {
-      "id": "Page1ooo",
+      "id": "Page1 Copy;;;",
       "isDefault": false
     },
     {
-      "id": "Page1 Copy;;;",
-      "isDefault": true
+      "id": "Page1",
+      "isDefault": false
     },
     {
       "id": "Page1 Copy;;; Copy",
       "isDefault": false
+    },
+    {
+      "id": "Page1ooo",
+      "isDefault": true
     }
   ],
   "unpublishedApplicationDetail": {
