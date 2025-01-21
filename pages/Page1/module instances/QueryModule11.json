@@ -7,19 +7,43 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "input1": "1"
+      "input1": "1",
+      "input2": "2",
+      "input3": "3",
+      "input4": "4"
     },
     "moduleInputs": {
+      "brtvrcjpzi": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "2",
+        "id": "brtvrcjpzi",
+        "label": "input2",
+        "propertyName": "inputs.input2"
+      },
       "tkejvyphsb": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "1",
         "id": "tkejvyphsb",
         "label": "input1",
         "propertyName": "inputs.input1"
+      },
+      "wbxgovvgnd": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "3",
+        "id": "wbxgovvgnd",
+        "label": "input3",
+        "propertyName": "inputs.input3"
+      },
+      "yfwwhdvcbb": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "4",
+        "id": "yfwwhdvcbb",
+        "label": "input4",
+        "propertyName": "inputs.input4"
       }
     },
     "name": "QueryModule11",
     "pageId": "Page1",
-    "version": "0.0.34"
+    "version": "0.0.62"
   }
 }

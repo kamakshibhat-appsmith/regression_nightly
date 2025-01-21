@@ -7,27 +7,27 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun1": "[\"2\"]",
-      "myFun2aaa1a": "[]"
+      "hhheehhhheehhhheehhhheehhhheehhhheeophhheehhhheehhhheehhhheehhhheehhhheeophhheehhhheehhhheehhhheehhhheehhhheeop": "[]",
+      "phhheehhhheehhhheehhhheehhhheehhhheeophhheehhhheehhhheehhhheehhhkheehhhheeophhheehhhheehhhheehhhheehhhheehhhheeopassssss": "[]"
     },
     "moduleInputs": {
-      "hphmxylbig": {
+      "jegoulhoqe": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
-        "id": "hphmxylbig",
-        "label": "myFun1",
-        "propertyName": "inputs.myFun11aaaaaop11aazazazazazaz123456789"
+        "id": "jegoulhoqe",
+        "label": "hhheehhhheehhhheehhhheehhhheehhhheeophhheehhhheehhhheehhhheehhhheehhhheeophhheehhhheehhhheehhhheehhhheehhhheeop",
+        "propertyName": "inputs.hhheehhhheehhhheehhhheehhhheehhhheeop"
       },
       "langitpimh": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "langitpimh",
-        "label": "myFun2aaa1a",
-        "propertyName": "inputs.myFun2aaaa"
+        "label": "phhheehhhheehhhheehhhheehhhheehhhheeophhheehhhheehhhheehhhheehhhkheehhhheeophhheehhhheehhhheehhhheehhhheehhhheeopassssss",
+        "propertyName": "inputs.p"
       }
     },
     "name": "JSModule111",
     "pageId": "Page1",
-    "version": "0.0.34"
+    "version": "0.0.62"
   }
 }
