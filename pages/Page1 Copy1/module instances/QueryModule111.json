@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "6706387f4b5fa03ca09d3e9f_6caee913-0c64-4c7d-bb4a-855af1a3cbf4",
-  "id": "Page1_QueryModule11",
+  "gitSyncId": "678fb702838d673939ef5edf_faadb2f7-4a0a-40e5-9634-c5aa39f78aac",
+  "id": "Page1 Copy1_QueryModule111",
   "moduleUUID": "73962bc6-d43f-485b-993a-2d198a499fce",
   "packageUUID": "7aa32bac-e802-4317-988f-fc9140de497b",
   "type": "QUERY_MODULE",
@@ -10,7 +10,8 @@
       "input1": "1",
       "input2": "2",
       "input3": "3",
-      "input4": "4"
+      "input4": "4",
+      "input5": "5"
     },
     "moduleInputs": {
       "brtvrcjpzi": {
@@ -19,6 +20,13 @@
         "id": "brtvrcjpzi",
         "label": "input2",
         "propertyName": "inputs.input2"
+      },
+      "ejaoyxhoob": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "5",
+        "id": "ejaoyxhoob",
+        "label": "input5",
+        "propertyName": "inputs.input5"
       },
       "tkejvyphsb": {
         "controlType": "INPUT_TEXT",
@@ -42,8 +50,7 @@
         "propertyName": "inputs.input4"
       }
     },
-    "name": "QueryModule11",
-    "pageId": "Page1",
-    "version": "0.0.62"
+    "name": "QueryModule111",
+    "pageId": "Page1 Copy1"
   }
 }

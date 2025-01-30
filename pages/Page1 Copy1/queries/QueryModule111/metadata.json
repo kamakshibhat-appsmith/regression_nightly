@@ -1,11 +1,11 @@
 {
-  "gitSyncId": "6706387f4b5fa03ca09d3e9f_12c19f86-43d9-4170-97b6-9e2c9d514234",
-  "id": "Page1__$QueryModule11$_QueryModule1",
+  "gitSyncId": "678fb702838d673939ef5edf_5e1f8032-818d-461f-b17d-689854eb2303",
+  "id": "Page1 Copy1__$QueryModule111$_QueryModule1",
   "isPublic": true,
-  "moduleInstanceId": "Page1_QueryModule11",
+  "moduleInstanceId": "Page1 Copy1_QueryModule111",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
-  "rootModuleInstanceId": "Page1_QueryModule11",
+  "rootModuleInstanceId": "Page1 Copy1_QueryModule111",
   "unpublishedAction": {
     "confirmBeforeExecute": false,
     "contextType": "PAGE",
@@ -15,8 +15,8 @@
       "pluginId": "postgres-plugin"
     },
     "executeOnLoad": true,
-    "name": "_$QueryModule11$_QueryModule1",
-    "pageId": "Page1",
+    "name": "_$QueryModule111$_QueryModule1",
+    "pageId": "Page1 Copy1",
     "userSetOnLoad": false
   }
 }
